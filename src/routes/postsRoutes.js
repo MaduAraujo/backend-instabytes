@@ -1,6 +1,6 @@
 import express from "express";
 import multer from "multer";
-import { listarPosts, getPostPorID, postarNovoPost, uploadImagem} from "../controller/postsController.js";
+import { listarPosts, getPostPorID, postarNovoPost, uploadImagem} from "../controllers/postsController.js";
 
 // comando padrão do multer para windows
 const storage = multer.diskStorage({
