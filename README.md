@@ -60,6 +60,12 @@ das mensagens trocadas entre um cliente (geralmente um navegador) e um servidor 
     - [Regras de negócio](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)
     - [Documentação do MongoDB](https://www.mongodb.com/pt-br/docs/drivers/node/current/usage-examples/insert-operations/)
 
+* Aula 5
+    - [CORS](https://www.alura.com.br/artigos/como-resolver-erro-de-cross-origin-resource-sharing)
+    - [Git e Github](https://www.alura.com.br/artigos/o-que-e-git-github)
+    - [Como escrever um bom README](https://www.alura.com.br/artigos/escrever-bom-readme)
+
+
 ## Comandos 
 
 Para rodar o servidor
@@ -74,3 +80,14 @@ O es6 pode ser atualizado pois serve para informar que é a versão mais nova do
 Faz com que todas as vezes em que for alterado o arquivo, não seja necessário reiniciar manualmente o servidor.
 
 `node --watch index.js`
+
+## Projeto Finalizado
+
+https://github.com/user-attachments/assets/144d5b47-337d-4ad2-bf0f-02e7bbdad7b1
+
+## Deploy do Projeto feito no Google Cloud
+
+link: https://my-backend-111670244089.southamerica-east1.run.app/posts
+
+![Captura de tela 2024-11-24 011441](https://github.com/user-attachments/assets/3c0bcb77-3e2c-4fee-bc7a-c5495f333587)
+
