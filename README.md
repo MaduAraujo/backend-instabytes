@@ -1,6 +1,6 @@
 # Sobre o Projeto
 
-Projeto que faz referência a uma rede social bastante utilizada no dia a dia. 
+Projeto que faz referência a uma rede social bastante utilizada no dia a dia.<br>
 Consiste em um servidor utilizando express no NodeJS.
 
 ## NodeJS
