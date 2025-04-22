@@ -1,5 +1,6 @@
-# Projeto Imersão Back-End da Alura
+# Sobre o Projeto
 
+Projeto que faz referência a uma rede social bastante utilizada no dia a dia. 
 Consiste em um servidor utilizando express no NodeJS.
 
 ## NodeJS
